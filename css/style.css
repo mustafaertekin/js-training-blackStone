@@ -4,13 +4,12 @@ main {
 
 
 #renderArea {
-    width: 400px;
-    height: 400px;
+    width: 80%;
+    height: 80%;
 }
 
 td {
     height: 25px;
     width: 25px;
-    background-color: aqua;
     border: 1px solid black;
 }
